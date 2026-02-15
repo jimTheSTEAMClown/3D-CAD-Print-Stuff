@@ -6,6 +6,7 @@ The Makey Bot Project is a STEAM activity to create you own small flat 3D Printe
 
 ### Small Makey Bot Template Features:
 - [Link to TinkerCAD Small STEAM Clown MakeyBot Robot "Holes" template](https://www.tinkercad.com/things/hcsn7VDLKw3-steam-clown-makeybot-holes) 
+
 Add these as "Holes" to your MakeyBot Robot.  Add them to your CAD design, place them where you want, and then "sink" below the plate, turn them into holes, and group with your Robot.  Then export as an STL.
 - [Small MakeyBot Eyes Hole Template For Standard LED (Regulare & RGB)](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-LED-Eyes.stl)
 - [9G Servo Hole Template](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-9G-Servo.stl)) This Servo is to wave an "Arm", or Tentical, or Tail....
