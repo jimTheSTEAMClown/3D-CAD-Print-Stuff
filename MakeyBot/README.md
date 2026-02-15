@@ -4,7 +4,7 @@ The Makey Bot Project is a STEAM activity to create you own small flat 3D Printe
 ## 3D Print STL and other files features and links
 
 ### Small Makey Bot Template Features:
-- Small MakeyBot Eyes Hole Template For Standard LED (Regulare & RGB)
+- [Small MakeyBot Eyes Hole Template For Standard LED (Regulare & RGB)](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-9G-Servo.stl)
 - 9G Servo Hole Template
 - Standard Small (size?) 7-Segment Display
 - Stop Light Row/Column Of 3 Holes For LEDs Template
