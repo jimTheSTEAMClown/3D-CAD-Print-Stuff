@@ -20,6 +20,10 @@ Add these as "Holes" to your MakeyBot Robot.
 - [Standard Small (size?) 7-Segment Display](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-7-Segment.stl)
 - [Stop Light Row/Column Of 3 Holes For LEDs Template](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-LED-STOP.stl)
 
+Complete 3D Print Version:
+- TinkerCAD Priject - [STEAM Clown MakeyBot 100mm Version #2](https://www.tinkercad.com/things/fqKvSx794Yr-steam-clown-makeybot-100mm-no2)
+- STL - [STEAM Clown MakeyBot 100mm Version #2](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/STEAM-Clown-MakeyBot-100mm-No2.stl))
+
 ### Larger Makey Bot Template Features:
 
 ### Other Makey Bot Template Features:
