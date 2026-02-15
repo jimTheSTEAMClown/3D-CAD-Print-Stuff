@@ -16,7 +16,7 @@ Add these as "Holes" to your MakeyBot Robot.
 6. Then export as an STL.
 
 - [Small MakeyBot Eyes Hole Template For Standard LED (Regulare & RGB)](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-LED-Eyes.stl)
-- [9G Servo Hole Template](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-9G-Servo.stl)) This Servo is to wave an "Arm", or Tentical, or Tail....
+- [9G Servo Hole Template](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-9G-Servo.stl)) This Servo is to wave an "Arm", Tentical, or Tail....
 - [Standard Small (size?) 7-Segment Display](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-7-Segment.stl)
 - [Stop Light Row/Column Of 3 Holes For LEDs Template](https://github.com/jimTheSTEAMClown/3D-CAD-Print-Stuff/blob/master/MakeyBot/MakeyBot-Holes-Small-LED-STOP.stl)
 
